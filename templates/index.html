@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spam Classifier</title>
+    <link rel="stylesheet" href="../static/style.css">
+
+</head>
+<body>
+    <div class="heading">
+    <h1 id = 'heading-1'>Spam Classifier</h1>
+    </div>
+    <form action = "{{url_for('predict')}}" method = "POST">
+        <h1 class ='text-head'>enter text</h1>
+        <!-- <textarea class = "text1", name ="text",rows="30"  > -->
+        <textarea class = "text1" id="text11" name="text" rows="15" cols="60">   
+        </textarea>
+        <br>
+
+    <div class= "check">
+    <input type="Submit" class = "info", value = "Predict">
+    </form>
+    <label></label>
+</body>
+</html>
