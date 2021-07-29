@@ -27,9 +27,9 @@ Algorithms Used:
 - SVM
 
 Selected Algorithm:
-- NAive Bayes.
+- Naive Bayes.
 
-Metrics: Model was selected based on Accuracy.
+Metrics: Model was selected based on it's Accuracy.
 
 Thank you!
 
