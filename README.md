@@ -1,7 +1,8 @@
 # Spam-Classifier-using-Naive-Bayes-and-Flask.
 
-Model Deployement Using Heroku:
-link : 
+Model Deployment Using Heroku:
+
+link : https://spam-classifier-flask-nb.herokuapp.com/
 
 About this Project: 
 
